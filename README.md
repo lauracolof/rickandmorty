@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was deployement in (https://rickandmorty-puce.vercel.app/)
+The final result of the project is deployement in https://rickandmorty-puce.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
